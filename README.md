@@ -206,8 +206,8 @@ The official challenge presentation deck covers project motivation, mathematics,
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Dharshini-457/embryo-trajectory-twin.git
-cd embryo-trajectory-twin
+git clone https://github.com/rdharshinir/EmbryoTwin.git
+cd EmbryoTwin
 ```
 
 ### 2. Run Python Mathematical Model & Tests

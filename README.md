@@ -33,7 +33,7 @@
 
 | Name | Role | GitHub / Profile | Email |
 | :--- | :--- | :--- | :--- |
-| **Dharshini R** | Project Lead & Full-Stack / ML Developer | [@Dharshini-457](https://github.com/Dharshini-457) | `dharshinir619@gmail.com` |
+| **Dharshini R** |  Full-Stack / ML Developer | [@Dharshini-457](https://github.com/Dharshini-457) | `dharshinir619@gmail.com` |
 | **Team Member 2** | Biomedical Modeling & Data Engineer | `[GitHub Profile]` | `[Email Address]` |
 | **Team Member 3** | Clinical Domain & UX Specialist | `[GitHub Profile]` | `[Email Address]` |
 
